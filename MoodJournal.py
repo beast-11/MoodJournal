@@ -4,7 +4,7 @@ import time
 
 
 # Configure the Gemini API
-genai.configure(api_key="AIzaSyD9oeJ_5I26O4SX4v2KjNwNtMElj-dYvBM")
+genai.configure(api_key="Your-API-Key")
 
 # Set up the model configuration
 generation_config = {
